@@ -1,4 +1,4 @@
-/* PL/SQL Training exercises*/
+/* PL/SQL Training exercise*/
 
 DROP TABLE dokumenty CASCADE CONSTRAINTS;
 DROP TABLE kopie CASCADE CONSTRAINTS;
